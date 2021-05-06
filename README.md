@@ -19,3 +19,15 @@ This repository maintains a collection of documentation, tutorials, tools, artic
 - [PPIO Simulator](https://github.com/pyTony/rp2040) - Early Development Prototype, no release yet.
 - [Pico Emu](https://github.com/Supercip971/pico-emu) - Early Development Prototype, no release yet.
 - [RP2040JS](https://github.com/wokwi/rp2040js) \_ Pico simulator in JavaScript, in active development, you can even see live coding video from the [project page](https://hackaday.io/project/177082-raspberry-pi-pico-emulator)
+
+## PIO Projects
+
+- [X86 Emulator](https://github.com/mathijsvandenberg/picox86) - Running x86 on your Pico completely with a graphical GUI!
+- [MEMU Emulator](https://github.com/Memotech-Bill/MEMU) - Emulates the 8-bit Memotech MTX computer on your Pico
+  !()[https://raw.githubusercontent.com/mathijsvandenberg/picox86/main/img/picox86color.jpg]
+- [VGA Display](https://github.com/GregAC/pico-stuff/tree/main/pio_vga) - Running complex videogame graphics
+  !()[https://gregchadwick.co.uk/media/play_pico/sprite-demo-final.jpg]
+- [Pico Tone Generation](https://github.com/martinkooij/pi-pico-tone) - Low-Level library to output tone by composing sound signals (e.g. sine waves)
+- [Pico Webserver](https://github.com/maxnet/pico-webserver) - Turn your Pico into an USB powered ethernet device running a web server
+- [SD Card Manager](https://github.com/carlk3/no-OS-FatFS-SD-SPI-RPi-Pico) - A complete program with a CLI interface to format, write and read to an attached SD card with the ExFAT filesystem format
+  ![](https://raw.githubusercontent.com/carlk3/FreeRTOS-FAT-CLI-for-RPi-Pico/master/images/IMG_1473.JPG)
